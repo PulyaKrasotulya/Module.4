@@ -32,3 +32,6 @@ git branch –d Имя_ветки
 ~~~
 git checkout Имя_ветки
 ~~~
+
+
+
